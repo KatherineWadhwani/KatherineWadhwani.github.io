@@ -69,7 +69,7 @@ body {
     float: right;
     margin-left: 68px;
     margin-right: -45%;
-    margin-top: -104.5%;
+    margin-top: -103.5%;
 
 }
 
@@ -98,6 +98,7 @@ h2 {
     font-family: myFirstFont;
     font-size: 30px;
     -webkit-text-fill-color: rgb(47, 45, 45);
+    margin-bottom: -2%;
 }
 
 h3 {
@@ -183,4 +184,5 @@ li {
     -webkit-column-break-inside: avoid;
     page-break-inside: avoid;
     break-inside: avoid;
+    margin-top: -1%;
 }
