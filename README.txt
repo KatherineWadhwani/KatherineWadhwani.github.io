@@ -1,7 +1,7 @@
 Project by Katherine Wadhwani
 
 Correctness and Troubleshooting;
-To the best of my understanding, all parts of this project have been implemented correctly. My only issue I'm continuing to troubleshoot is in styling
+To the best of my understanding, all parts of this project have been implemented correctly. The only issue I'm continuing to troubleshoot is in styling
 resume.html, such that the two columns start at the same height on the page.
 
 Collaboration:
