@@ -2,7 +2,8 @@ Project by Katherine Wadhwani
 
 Correctness and Troubleshooting;
 To the best of my understanding, all parts of this project have been implemented correctly. The only issue I'm continuing to troubleshoot is in styling
-resume.html, as the two columns start at different heights. The resume headings "skills" is also getting separated from the list. Interestingly, the format is slightly different when I open index.html in a browser.
+resume.html, as the two columns start at different heights. The resume headings "skills" is also getting separated from the list. Interestingly, the format
+is slightly different when I open index.html in a browser.
 
 Collaboration:
 I did not discuss the project with anyone.
